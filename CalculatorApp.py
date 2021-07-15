@@ -476,7 +476,6 @@ def curr():
 win=tk.Tk()
 win.maxsize(432,586)
 win.title("CALCULATOR")
-win.wm_iconbitmap("Calc.ico")
 win.configure(background="dimgrey")
 
 # a simple help menu button for guidance to new users
